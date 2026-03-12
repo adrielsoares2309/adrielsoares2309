@@ -29,7 +29,7 @@ Atualmente estou trabalhando em projetos como:
 # 🎸 Paixão por Guitarra
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1588449668365-d15e397f6787?auto=format&fit=crop&w=1200&q=80" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Gibson_Les_Paul_Standard.jpg" width="450"/>
 </p>
 
 Sou apaixonado por **guitarra, rock, reggae e música brasileira**.
@@ -61,4 +61,4 @@ Um dos meus projetos atuais é criar um **software para estudar guitarra**, que 
 
 ---
 
-⭐ Sempre buscando aprender mais e construir projetos interessantes que unem **hardware + software + música**.
+⭐ Sempre buscando aprender mais e construir projetos que unem **hardware, software e música**.
