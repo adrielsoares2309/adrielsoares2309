@@ -15,6 +15,7 @@ Gosto de desenvolver projetos que integrem **hardware e software**, especialment
 
 ---
 
+
 ## Tecnologias
 
 <p align="center">
@@ -23,4 +24,7 @@ Gosto de desenvolver projetos que integrem **hardware e software**, especialment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+
+</p>
+
